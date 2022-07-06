@@ -18,7 +18,7 @@ there just add svadhesive.dll from the [latest FiveM build](https://runtime.five
 ![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
 
 ### DevOps & Tools
-![vscom](https://img.shields.io/badge/vscommuntiy-black?style=flat-square&logo=visual-studio-code&logoColor=ac68c4)
+![vscoms](https://img.shields.io/badge/vscommuntiy-black?style=flat-square&logo=visual-studio-code&logoColor=ac68c4)
 
 ## If you need help HMU
 https://discord.gg/UuftznYajU
