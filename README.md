@@ -11,7 +11,7 @@ AND if you need to dump client files just edit the fxmanifest from client_script
 Setup an normal [custom FiveM server build](https://github.com/citizenfx/fivem/blob/master/docs/building.md) and edit the citizen-scripting-lua.cpp in \fivem\code\components\citizen-scripting-lua\src\. Add the code from POC.cpp in "LoadFileInternal" and the 2 Functions anywhere above it.
 
 After that just build it and go to \fivem\code\bin\server\windows\release\
-there just add svadhesive.dll from the [latest FiveM build](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) and add "svadhesive", to components.json in the same path.
+there just add svadhesive.dll from the [latest FiveM build](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) and add "svadhesive", to components.json in the same Path.
 
 ### Languages
 ![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
