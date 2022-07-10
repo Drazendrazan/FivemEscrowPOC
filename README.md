@@ -12,6 +12,7 @@ Setup an normal [custom FiveM server build](https://github.com/citizenfx/fivem/b
 
 After that just build it and go to \fivem\code\bin\server\windows\release\
 there just add svadhesive.dll from the [latest FiveM build](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) and add "svadhesive", to components.json in the same Path.
+To Decompile turboh.luac you need to follow [LuaC-to-Lua](https://github.com/uhmpasterig/LuaC-to-Lua)
 
 ### Languages
 ![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
